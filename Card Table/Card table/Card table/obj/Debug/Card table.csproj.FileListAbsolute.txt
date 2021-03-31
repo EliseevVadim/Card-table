@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\Card table\Card table\bin\Debug\Card table.exe.config
+C:\Users\User\source\repos\Card table\Card table\bin\Debug\Card table.exe
+C:\Users\User\source\repos\Card table\Card table\bin\Debug\Card table.pdb
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card table.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card_table.Properties.Resources.resources
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card table.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card table.exe
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card table.pdb
+C:\Users\User\source\repos\Card table\Card table\obj\Debug\Card_table.Form1.resources
+D:\хуиппи\Card table\Card table\bin\Debug\Card table.exe.config
+D:\хуиппи\Card table\Card table\bin\Debug\Card table.exe
+D:\хуиппи\Card table\Card table\bin\Debug\Card table.pdb
+D:\хуиппи\Card table\Card table\obj\Debug\Card table.csprojAssemblyReference.cache
+D:\хуиппи\Card table\Card table\obj\Debug\Card_table.Form1.resources
+D:\хуиппи\Card table\Card table\obj\Debug\Card_table.Properties.Resources.resources
+D:\хуиппи\Card table\Card table\obj\Debug\Card table.csproj.GenerateResource.cache
+D:\хуиппи\Card table\Card table\obj\Debug\Card table.exe
+D:\хуиппи\Card table\Card table\obj\Debug\Card table.pdb
+D:\стол\Card table\Card table\bin\Debug\Card table.exe.config
+D:\стол\Card table\Card table\bin\Debug\Card table.exe
+D:\стол\Card table\Card table\bin\Debug\Card table.pdb
+D:\стол\Card table\Card table\obj\Debug\Card table.csprojAssemblyReference.cache
+D:\стол\Card table\Card table\obj\Debug\Card_table.Form1.resources
+D:\стол\Card table\Card table\obj\Debug\Card_table.Properties.Resources.resources
+D:\стол\Card table\Card table\obj\Debug\Card table.csproj.GenerateResource.cache
+D:\стол\Card table\Card table\obj\Debug\Card table.exe
+D:\стол\Card table\Card table\obj\Debug\Card table.pdb
